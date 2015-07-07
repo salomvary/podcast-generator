@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' xmlns:atom='http://www.w3.org/2005/Atom' version='2.0'>
+  <channel>
+    <title>Generated Podcast</title>
+    <description>Feed of randomly generated podcasts</description>
+    <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
+    <link>http://example.org/</link>
+    <item>
+      <title><![CDATA[Hotels are tired of getting ripped off.  I checked into a hotel and they]]></title>
+      <link>http://example.org/2003/12/13/atom03'</link>
+      <guid isPermaLink='false'>919A7319-E35C-4BBC-B750-2B354ABA9EB1</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.si9bzMoR.mp3' length='33882' type='audio/mpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Horner's Five Thumb Postulate:]]></title>
+      <link>http://example.org/2003/12/13/atom03'</link>
+      <guid isPermaLink='false'>278CEA62-4B4D-41C2-93C4-82F48FB15D62</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.4YvY43YB.mp3' length='21238' type='audio/mpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Different all twisty a of in maze are you, passages little.]]></title>
+      <link>http://example.org/2003/12/13/atom03'</link>
+      <guid isPermaLink='false'>97F65F15-03C7-4D01-8FF6-A24276CB6338</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.VdNKB8Xx.mp3' length='15805' type='audio/mpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Anything is good if it's made of chocolate.]]></title>
+      <link>http://example.org/2003/12/13/atom03'</link>
+      <guid isPermaLink='false'>1729DA49-B188-4915-BDA7-A88AC465C256</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.vgLrj9l9.mp3' length='9640' type='audio/mpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Psychoanalysis??  I thought this was a nude rap session!!!]]></title>
+      <link>http://example.org/2003/12/13/atom03'</link>
+      <guid isPermaLink='false'>05829773-10EA-4B8F-8589-0479EC663665</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.DN0e05NL.mp3' length='21761' type='audio/mpeg'/>
+    </item>
+  </channel>
+</rss>
