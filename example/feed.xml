@@ -6,34 +6,39 @@
     <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
     <link>http://example.org/</link>
     <item>
-      <title><![CDATA[Hotels are tired of getting ripped off.  I checked into a hotel and they]]></title>
+      <title><![CDATA[There are more things in heaven and earth than any place else.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>919A7319-E35C-4BBC-B750-2B354ABA9EB1</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.si9bzMoR.mp3' length='33882' type='audio/mpeg'/>
+      <guid isPermaLink='false'>F8273BE9-467A-44BC-9D29-D4D9F71A91BC</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.S3sF4pXB.mp3' length='13611' type='audio/mpeg'/>
+			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Horner's Five Thumb Postulate:]]></title>
+      <title><![CDATA[How kind of you to be willing to live someone's life for them.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>278CEA62-4B4D-41C2-93C4-82F48FB15D62</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.4YvY43YB.mp3' length='21238' type='audio/mpeg'/>
+      <guid isPermaLink='false'>D6FEE30D-6F21-4F36-AA9F-21CDA7CBC28B</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.gbNIZxof.mp3' length='15074' type='audio/mpeg'/>
+			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Different all twisty a of in maze are you, passages little.]]></title>
+      <title><![CDATA[New systems generate new problems.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>97F65F15-03C7-4D01-8FF6-A24276CB6338</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.VdNKB8Xx.mp3' length='15805' type='audio/mpeg'/>
+      <guid isPermaLink='false'>802F500C-0108-461F-9936-38D2E58D2812</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.ocZr7WVk.mp3' length='9222' type='audio/mpeg'/>
+			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Anything is good if it's made of chocolate.]]></title>
+      <title><![CDATA[There are no rules for March.  March is spring, sort of, usually, March]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>1729DA49-B188-4915-BDA7-A88AC465C256</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.vgLrj9l9.mp3' length='9640' type='audio/mpeg'/>
+      <guid isPermaLink='false'>0FA8B209-2FDD-45D1-A528-95E10E504DF6</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.fq2i6PRU.mp3' length='33464' type='audio/mpeg'/>
+			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Psychoanalysis??  I thought this was a nude rap session!!!]]></title>
+      <title><![CDATA[Pascal is a language for children wanting to be naughty.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>05829773-10EA-4B8F-8589-0479EC663665</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.DN0e05NL.mp3' length='21761' type='audio/mpeg'/>
+      <guid isPermaLink='false'>73CF0693-0599-4F3B-8B55-8940E3EFE1AC</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.iteAK8Hq.mp3' length='26254' type='audio/mpeg'/>
+			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
     </item>
   </channel>
 </rss>
