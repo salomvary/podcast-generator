@@ -6,39 +6,39 @@
     <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
     <link>http://example.org/</link>
     <item>
-      <title><![CDATA[There are more things in heaven and earth than any place else.]]></title>
+      <title><![CDATA[A song in time is worth a dime.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>F8273BE9-467A-44BC-9D29-D4D9F71A91BC</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.S3sF4pXB.mp3' length='13611' type='audio/mpeg'/>
-			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
+      <guid isPermaLink='false'>B9855311-9F0C-4523-AA14-28D764483860</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.R1C3f9vJ.mp3' length='8909' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 11:23:05 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[How kind of you to be willing to live someone's life for them.]]></title>
+      <title><![CDATA[Tax reform means "Don't tax you, don't tax me, tax that fellow behind]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>D6FEE30D-6F21-4F36-AA9F-21CDA7CBC28B</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.gbNIZxof.mp3' length='15074' type='audio/mpeg'/>
-			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
+      <guid isPermaLink='false'>1D4613BE-622C-443F-BAAD-A9C1E923135F</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.iJpSeo6h.mp3' length='31583' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 11:23:05 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[New systems generate new problems.]]></title>
+      <title><![CDATA[Everyone is entitled to my opinion.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>802F500C-0108-461F-9936-38D2E58D2812</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.ocZr7WVk.mp3' length='9222' type='audio/mpeg'/>
-			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
+      <guid isPermaLink='false'>EDD513AB-3C16-46D4-ADF9-337E9456F46A</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.C9XfW2PZ.mp3' length='9222' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 11:23:05 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[There are no rules for March.  March is spring, sort of, usually, March]]></title>
+      <title><![CDATA[The control of the production of wealth is the control of human life itself.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>0FA8B209-2FDD-45D1-A528-95E10E504DF6</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.fq2i6PRU.mp3' length='33464' type='audio/mpeg'/>
-			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
+      <guid isPermaLink='false'>59845147-859C-406E-83B4-2D8B364E4721</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.z2qv4rgn.mp3' length='26149' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 11:23:06 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Pascal is a language for children wanting to be naughty.]]></title>
+      <title><![CDATA[Education is the process of casting false pearls before real swine.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>73CF0693-0599-4F3B-8B55-8940E3EFE1AC</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.iteAK8Hq.mp3' length='26254' type='audio/mpeg'/>
-			<pubDate>Wed, 09 Sep 2015 11:13:26 +0200</pubDate>
+      <guid isPermaLink='false'>FD7A5371-B6C5-43FC-8FBD-64C1B75A0D24</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.fIhYxADX.mp3' length='25209' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 11:23:06 +0200</pubDate>
     </item>
   </channel>
 </rss>
