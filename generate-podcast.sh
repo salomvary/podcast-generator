@@ -30,7 +30,7 @@ for i in {1..5}; do
       <link>http://example.org/2003/12/13/atom03'</link>
       <guid isPermaLink='false'>$(uuidgen)</guid>
       <enclosure url='$base_url/$mp3' length='$length' type='audio/mpeg'/>
-			<pubDate>$(date +"%a, %d %b %Y %T %z")</pubDate>
+      <pubDate>$(date +"%a, %d %b %Y %T %z")</pubDate>
     </item>" >> "$feed"
 done
 
