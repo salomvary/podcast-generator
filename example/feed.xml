@@ -6,39 +6,39 @@
     <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
     <link>http://example.org/</link>
     <item>
-      <title><![CDATA[When all else fails, EAT!!!]]></title>
+      <title><![CDATA[I judge a religion as being good or bad based on whether its adherents]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>CBA01B77-7BFD-4B5E-85C6-BEFB00BF8A3F</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.U7vWeIEa.mp3' length='13506' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 12:34:36 +0200</pubDate>
+      <guid isPermaLink='false'>4A078530-4439-4CE8-9DD1-1C98AB136810</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.rYx3R7RG.mp3' length='41301' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 12:56:37 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Another megabytes the dust.]]></title>
+      <title><![CDATA["It is the creationists who blasphemously are claiming that God is cheating]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>EA429953-6DEE-42BD-B61A-B5E640D1304F</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.uEnywJnU.mp3' length='7132' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 12:34:36 +0200</pubDate>
+      <guid isPermaLink='false'>1BF84D82-8D88-485A-818B-EB8A1DF56A8B</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.ozJGSYdL.mp3' length='32105' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 12:56:37 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Your depth of comprehension may tend to make you lax in worldly ways.]]></title>
+      <title><![CDATA[Why am I so soft in the middle when the rest of my life is so hard?]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>2EA9FF35-F650-4AD0-91BB-77D206A01984</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.FpdJKElI.mp3' length='17686' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 12:34:37 +0200</pubDate>
+      <guid isPermaLink='false'>1C096BBA-C8F1-4C03-BE78-67F4BC09D6D7</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.eTkfSllL.mp3' length='25523' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 12:56:37 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Somewhere, something incredible is waiting to be known.]]></title>
+      <title><![CDATA["It runs like _x, where _x is something unsavory"]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>0E29F9B9-E5DD-4024-B057-758AD89F81AE</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.pVt7BkHv.mp3' length='21970' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 12:34:37 +0200</pubDate>
+      <guid isPermaLink='false'>8F1371A9-4C3A-4A42-976A-6AF1D0AF0C50</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.bQ1AiTfF.mp3' length='31896' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 12:56:38 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[It is better for civilization to be going down the drain than to be ]]></title>
+      <title><![CDATA[When you dig another out of trouble, you've got a place to bury your own.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>02066C67-7E14-46C2-BF11-E7E90DE9F230</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.LINyKpKu.mp3' length='26881' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 12:34:37 +0200</pubDate>
+      <guid isPermaLink='false'>CC9B3FBB-84FD-4B4D-87CE-5E8F6052318A</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.WF4FmrbQ.mp3' length='17999' type='audio/mpeg'/>
+      <pubDate>Wed, 09 Sep 2015 12:56:38 +0200</pubDate>
     </item>
   </channel>
 </rss>
