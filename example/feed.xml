@@ -6,39 +6,39 @@
     <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
     <link>http://example.org/</link>
     <item>
-      <title><![CDATA[Say something you'll be sorry for, I love receiving apologies.]]></title>
+      <title><![CDATA[While having never invented a sin, I'm trying to perfect several.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>B2D0AE3E-902F-454B-BA5E-9B646FC32DF2</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.27nj4G23.mp3' length='16641' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 13:01:07 +0200</pubDate>
+      <guid isPermaLink='false'>747E11D0-5FDF-44B6-B881-779FD4354890</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.6w7RsUeh.mp3' length='17581' type='audio/mpeg'/>
+      <pubDate>Mon, 31 Oct 2016 17:03:18 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[Knocked, you weren't in.]]></title>
+      <title><![CDATA[I'll meet you... on the dark side of the moon...]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>2B0F7A36-6DBE-466A-8E7B-90E28868F2F1</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.cM8AYSMc.mp3' length='13506' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 13:01:07 +0200</pubDate>
+      <guid isPermaLink='false'>C34057D3-BB6E-41F8-AE7E-34532B1F6D47</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.yDUkRINv.mp3' length='17581' type='audio/mpeg'/>
+      <pubDate>Mon, 31 Oct 2016 17:03:18 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[Genius is pain.]]></title>
+      <title><![CDATA[He that is giddy thinks the world turns round.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>75779DF4-0A86-4636-A777-B7F6D08A57C8</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.R4b7yVdD.mp3' length='12461' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 13:01:07 +0200</pubDate>
+      <guid isPermaLink='false'>D8E2CB58-E88F-4D09-9156-448D8D94A5C1</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.K3DbVOVF.mp3' length='26254' type='audio/mpeg'/>
+      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[Whistler's mother is off her rocker.]]></title>
+      <title><![CDATA["There are some good people in it, but the orchestra as a whole is equivalent]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>393A25D3-5B7C-480F-8904-2AED7E266FAD</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.uPx6D3Ud.mp3' length='8700' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 13:01:07 +0200</pubDate>
+      <guid isPermaLink='false'>EC1197EA-DF18-4CC7-A993-8217EE2A0680</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.2D3BUc5n.mp3' length='36703' type='audio/mpeg'/>
+      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[Life is not for everyone.]]></title>
+      <title><![CDATA[Wilner's Observation:]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>7460B466-DCEC-437E-9A1C-144B8CA6D33E</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.QFLsH5zb.mp3' length='7446' type='audio/mpeg'/>
-      <pubDate>Wed, 09 Sep 2015 13:01:07 +0200</pubDate>
+      <guid isPermaLink='false'>01A20B76-823B-41BE-B7FB-4568DEDCF475</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.LNv2iDua.mp3' length='22179' type='audio/mpeg'/>
+      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
     </item>
   </channel>
 </rss>
