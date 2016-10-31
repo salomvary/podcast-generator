@@ -30,7 +30,7 @@
       <title><![CDATA["There are some good people in it, but the orchestra as a whole is equivalent]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
       <guid isPermaLink='false'>EC1197EA-DF18-4CC7-A993-8217EE2A0680</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.2D3BUc5n.mp3' length='36703' type='audio/mpeg'/>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.2D3BUc5n.mp3?hello' length='36703' type='audio/mpeg'/>
       <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
     </item>
     <item>
