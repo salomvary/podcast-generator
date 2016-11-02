@@ -6,39 +6,39 @@
     <atom:link href='http://salomvary.github.io/podcast-generator/example/feed.xml' rel='self' type='application/rss+xml' />
     <link>http://example.org/</link>
     <item>
-      <title><![CDATA[While having never invented a sin, I'm trying to perfect several.]]></title>
+      <title><![CDATA[You can't cross a large chasm in two small jumps.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>747E11D0-5FDF-44B6-B881-779FD4354890</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.6w7RsUeh.mp3' length='17581' type='audio/mpeg'/>
-      <pubDate>Mon, 31 Oct 2016 17:03:18 +0100</pubDate>
+      <guid isPermaLink='false'>2F2303EE-CD09-4E1B-A3A4-63C9E1436D94</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.CDrCS4OO.mp3' length='12461' type='audio/mpeg'/>
+      <pubDate>Wed, 02 Nov 2016 15:00:05 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[I'll meet you... on the dark side of the moon...]]></title>
+      <title><![CDATA[The better the state is established, the fainter is humanity.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>C34057D3-BB6E-41F8-AE7E-34532B1F6D47</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.yDUkRINv.mp3' length='17581' type='audio/mpeg'/>
-      <pubDate>Mon, 31 Oct 2016 17:03:18 +0100</pubDate>
+      <guid isPermaLink='false'>8C09F540-AC80-48D2-BDB2-130EC22D1DBE</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.Fov3P2Gt.mp3' length='38061' type='audio/mpeg'/>
+      <pubDate>Wed, 02 Nov 2016 15:00:06 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[He that is giddy thinks the world turns round.]]></title>
+      <title><![CDATA["Text processing has made it possible to right-justify any idea, even]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>D8E2CB58-E88F-4D09-9156-448D8D94A5C1</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.K3DbVOVF.mp3' length='26254' type='audio/mpeg'/>
-      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
+      <guid isPermaLink='false'>3E44FB33-255A-4E91-9517-266DAC542DB2</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.PCuDT1Oc.mp3' length='42555' type='audio/mpeg'/>
+      <pubDate>Wed, 02 Nov 2016 15:00:06 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA["There are some good people in it, but the orchestra as a whole is equivalent]]></title>
+      <title><![CDATA[A CONS is an object which cares.]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>EC1197EA-DF18-4CC7-A993-8217EE2A0680</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.2D3BUc5n.mp3?hello' length='36703' type='audio/mpeg'/>
-      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
+      <guid isPermaLink='false'>F9BE03C3-6827-4044-B654-033A5D6816A8</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.KJw5Ugqr.mp3' length='16954' type='audio/mpeg'/>
+      <pubDate>Wed, 02 Nov 2016 15:00:06 +0100</pubDate>
     </item>
     <item>
-      <title><![CDATA[Wilner's Observation:]]></title>
+      <title><![CDATA[[Washington, D.C.] is the home of... taste for the people -- the big,]]></title>
       <link>http://example.org/2003/12/13/atom03'</link>
-      <guid isPermaLink='false'>01A20B76-823B-41BE-B7FB-4568DEDCF476</guid>
-      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.LNv2iDua.mp3?ggg' length='22179' type='audio/mpeg'/>
-      <pubDate>Mon, 31 Oct 2016 17:03:19 +0100</pubDate>
+      <guid isPermaLink='false'>DF960627-5904-4663-A6F0-0713D60E0BE6</guid>
+      <enclosure url='http://salomvary.github.io/podcast-generator/example/episode.NTrNVU9k.mp3' length='37121' type='audio/mpeg'/>
+      <pubDate>Wed, 02 Nov 2016 15:00:07 +0100</pubDate>
     </item>
   </channel>
 </rss>
